@@ -20,7 +20,6 @@
             font-family: "DM Sans", sans-serif;
             font-optical-sizing: auto;
         }
-
         .btn-danger {
             --bs-btn-bg: #fc3a4e;
         }
